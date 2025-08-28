@@ -19,7 +19,7 @@ a:link {
 /* STYLE THE LINKS IN HAMBURGER DROPDOWN */
 .topnav a {
   color: #8B0000; 
-  font-size: 30px;
+  font-size: 24px;
   display: block;
   justify-self: right;
   text-decoration: none;
@@ -613,36 +613,33 @@ a:link {
     display: none;
   }
 
- .title-box {
+    .title-box {
     display: flex;
-    justify-content: center;
-    align-items: center;
-    /*   align-items: flex-end; */
+      justify-content: flex-start;
+    align-items: flex-start;
     color: white;
-    text-align: center;
+    text-align: left;
     width: max;
-    height: 50px;
-/*     border: 5px; */
-        /*   background-image: url("https://i.imgur.com/rP5bnhT.png"); */
+    height: 350px;
+  background-image: url("https://i.imgur.com/vaCm063.png");
     /*   CONVERTS PHOTO TO BLACK AND WHITE  */
     /*   filter: grayscale(100%); */
     /*   CONVERTS PHOTO TO BLACK AND WHITE  */
     /*   filter: grayscale(100%); */
-/*     background-size: contain;
+    background-size: contain;
     background-repeat: no-repeat;
-    background-position: right; */
-/*     padding: 10px; */
-/*     padding-top: 1px; */
-   padding-top: 30px;
-/*     padding-bottom: 3px; */
-/*       border-color: #c0c0c0; */
-    padding-bottom: 5px;
-            border: 5px solid green;
-    border-top: none;
+    background-position: right;
+    padding: 10px;
+    padding-top: 25px;
+    margin-bottom: 10px;
+      border: solid;
+ border-top: none;
     border-left: none;
     border-right: none;
-        border-color: #A52A2A; 
-/*            border: 10px solid red; */
+      border-width: 5px;
+    border-color: #c19a6b;
+    /*   border-color: #c0c0c0; */
+/*             border: 10px solid green; */
   }
 
   .title {
@@ -758,36 +755,33 @@ a:link {
     display: none;
   }
 
- .title-box {
+   .title-box {
     display: flex;
-    justify-content: center;
-    align-items: center;
-    /*   align-items: flex-end; */
+      justify-content: flex-start;
+    align-items: flex-start;
     color: white;
-    text-align: center;
+    text-align: left;
     width: max;
-    height: 50px;
-/*     border: 5px; */
-        /*   background-image: url("https://i.imgur.com/rP5bnhT.png"); */
+    height: 350px;
+  background-image: url("https://i.imgur.com/vaCm063.png");
     /*   CONVERTS PHOTO TO BLACK AND WHITE  */
     /*   filter: grayscale(100%); */
     /*   CONVERTS PHOTO TO BLACK AND WHITE  */
     /*   filter: grayscale(100%); */
-/*     background-size: contain;
+    background-size: contain;
     background-repeat: no-repeat;
-    background-position: right; */
-/*     padding: 10px; */
-/*     padding-top: 1px; */
-   padding-top: 30px;
-/*     padding-bottom: 3px; */
-/*       border-color: #c0c0c0; */
-/*     padding-bottom: 5px; */
-            border: 5px solid green;
-  border-top: none;
+    background-position: right;
+    padding: 10px;
+    padding-top: 25px;
+    margin-bottom: 10px;
+      border: solid;
+ border-top: none;
     border-left: none;
     border-right: none;
-        border-color: #A52A2A; 
-/*            border: 10px solid red; */
+      border-width: 5px;
+    border-color: #c19a6b;
+    /*   border-color: #c0c0c0; */
+/*             border: 10px solid green; */
   }
 
   .title {
@@ -906,36 +900,33 @@ a:link {
     display: none;
   }
 
- .title-box {
+   .title-box {
     display: flex;
-    justify-content: center;
-    align-items: center;
-    /*   align-items: flex-end; */
+      justify-content: flex-start;
+    align-items: flex-start;
     color: white;
-    text-align: center;
+    text-align: left;
     width: max;
-    height: 50px;
-/*     border: 5px; */
-        /*   background-image: url("https://i.imgur.com/rP5bnhT.png"); */
+    height: 350px;
+  background-image: url("https://i.imgur.com/vaCm063.png");
     /*   CONVERTS PHOTO TO BLACK AND WHITE  */
     /*   filter: grayscale(100%); */
     /*   CONVERTS PHOTO TO BLACK AND WHITE  */
     /*   filter: grayscale(100%); */
-/*     background-size: contain;
+    background-size: contain;
     background-repeat: no-repeat;
-    background-position: right; */
-/*     padding: 10px; */
-/*     padding-top: 1px; */
-   padding-top: 30px;
-/*     padding-bottom: 3px; */
-/*       border-color: #c0c0c0; */
-/*     padding-bottom: 5px; */
-            border: 5px solid green;
-   border-top: none;
+    background-position: right;
+    padding: 10px;
+    padding-top: 25px;
+    margin-bottom: 10px;
+      border: solid;
+ border-top: none;
     border-left: none;
     border-right: none;
-        border-color: #A52A2A; 
-/*            border: 10px solid red; */
+      border-width: 5px;
+    border-color: #CD5C5C;
+    /*   border-color: #c0c0c0; */
+/*             border: 10px solid green; */
   }
 
   .title {
@@ -1054,36 +1045,33 @@ a:link {
     display: none;
   }
 
- .title-box {
+  .title-box {
     display: flex;
-    justify-content: center;
-    align-items: center;
-    /*   align-items: flex-end; */
+      justify-content: flex-start;
+    align-items: flex-start;
     color: white;
-    text-align: center;
+    text-align: left;
     width: max;
-    height: 50px;
-/*     border: 5px; */
-        /*   background-image: url("https://i.imgur.com/rP5bnhT.png"); */
+    height: 350px;
+  background-image: url("https://i.imgur.com/vaCm063.png");
     /*   CONVERTS PHOTO TO BLACK AND WHITE  */
     /*   filter: grayscale(100%); */
     /*   CONVERTS PHOTO TO BLACK AND WHITE  */
     /*   filter: grayscale(100%); */
-/*     background-size: contain;
+    background-size: contain;
     background-repeat: no-repeat;
-    background-position: right; */
-/*     padding: 10px; */
-/*     padding-top: 1px; */
-   padding-top: 30px;
-/*     padding-bottom: 3px; */
-/*       border-color: #c0c0c0; */
-/*     padding-bottom: 5px; */
-            border: 5px solid green;
-    border-top: none;
+    background-position: right;
+    padding: 10px;
+    padding-top: 25px;
+    margin-bottom: 10px;
+      border: solid;
+ border-top: none;
     border-left: none;
     border-right: none;
-        border-color: #A52A2A; 
-/*            border: 10px solid red; */
+      border-width: 5px;
+    border-color: #CD5C5C;
+    /*   border-color: #c0c0c0; */
+/*             border: 10px solid green; */
   }
 
   .title {
@@ -1200,36 +1188,33 @@ a:link {
     display: none;
   }
 
- .title-box {
+  .title-box {
     display: flex;
-    justify-content: center;
-    align-items: center;
-    /*   align-items: flex-end; */
+      justify-content: flex-start;
+    align-items: flex-start;
     color: white;
-    text-align: center;
+    text-align: left;
     width: max;
-    height: 50px;
-/*     border: 5px; */
-        /*   background-image: url("https://i.imgur.com/rP5bnhT.png"); */
+    height: 350px;
+  background-image: url("https://i.imgur.com/vaCm063.png");
     /*   CONVERTS PHOTO TO BLACK AND WHITE  */
     /*   filter: grayscale(100%); */
     /*   CONVERTS PHOTO TO BLACK AND WHITE  */
     /*   filter: grayscale(100%); */
-/*     background-size: contain;
+    background-size: contain;
     background-repeat: no-repeat;
-    background-position: right; */
-/*     padding: 10px; */
-/*     padding-top: 1px; */
-   padding-top: 30px;
-/*     padding-bottom: 3px; */
-/*       border-color: #c0c0c0; */
-/*     padding-bottom: 5px; */
-            border: 5px solid green;
-   border-top: none;
+    background-position: right;
+    padding: 10px;
+    padding-top: 25px;
+    margin-bottom: 10px;
+      border: solid;
+ border-top: none;
     border-left: none;
     border-right: none;
-        border-color: #A52A2A; 
-/*            border: 10px solid orange; */
+      border-width: 5px;
+    border-color: #CD5C5C;
+    /*   border-color: #c0c0c0; */
+/*             border: 10px solid green; */
   }
 
   .title {
@@ -1351,7 +1336,7 @@ a:link {
     color: white;
     text-align: left;
     width: max;
-    height: 250px;
+    height: 350px;
 background-image: url("https://i.imgur.com/vaCm063.png");
     /*   CONVERTS PHOTO TO BLACK AND WHITE  */
     /*   filter: grayscale(100%); */
@@ -1364,7 +1349,7 @@ background-image: url("https://i.imgur.com/vaCm063.png");
     padding-top: 25px;
     margin-bottom: 10px;
     border-bottom: 5px;
-    /*   border-color: #c0c0c0; */
+      border-color: #CD5C5C;
 /*             border: 10px solid green; */
   }
 
